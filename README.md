@@ -8,7 +8,7 @@ Run creation script for MySQL
 
 Edit configue in plexPlaying.py
   - Server['URL'] = 'http://SERVER_URL.com:32400'
-  - Server['Token'] = 'PLEX_TOKEN'
+  - Server['Token'] = 'PLEX_TOKEN' #https://support.plex.tv/hc/en-us/articles/204059436-Finding-your-account-token-X-Plex-Token
   - Server['Ignored'] = ['PLEX_USER','ignored']
   - Server['PB_API'] = 'PUSHBULLET_API'
 
